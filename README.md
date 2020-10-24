@@ -1,1 +1,1 @@
-The project was developed for the tutorial on **[Medium]**(https://medium.com/@dariadobszai) available **[here]**(https://dariadobszai.medium.com/interactive-navigation-items-in-flutter-web-7fccc5975779)
+The project was developed for the tutorial on **[Medium](https://medium.com/@dariadobszai)** available **[here](https://dariadobszai.medium.com/interactive-navigation-items-in-flutter-web-7fccc5975779)**
